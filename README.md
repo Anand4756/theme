@@ -1,14 +1,7 @@
-# README
-## This is the README for your extension "green-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Green Theme(Dark Mode)
+![Demo](icons/theme-green.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
+A visual Studio Code extension made to look give vscode a new look with the dark mode feature.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+##### The background is mostly black and the foreground is kept Green, So that code editor looks better.
 
-**Enjoy!**
-# theme

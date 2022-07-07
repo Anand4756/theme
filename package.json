@@ -7,10 +7,14 @@
     "engines": {
         "vscode": "^1.68.0"
     },
-    "icon": "icons/",
+    "icon": "icons/theme-green.png",
     "author": {
         "name": "Anand Kaushik",
         "email": "anand.k4756@outlook.com"
+    },
+    "repository": {
+        "url": "https://github.com/Anand4756/theme",
+        "type": "git"
     },
     "keywords":[
      "theme",
