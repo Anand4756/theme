@@ -1,0 +1,38 @@
+{
+    "name": "theme",
+    "displayName": "Green theme",
+    "description": "Try Green Theme one of the best dark theme with beautiful green foreground. Best theme for coding in nights without hurting the eyes.",
+    "publisher": "AnandKaushik",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "icon": "icons/",
+    "author": {
+        "name": "Anand Kaushik",
+        "email": "anand.k4756@outlook.com"
+    },
+    "keywords":[
+     "theme",
+     "Green theme",
+     "dark theme",
+     "dark green theme",
+     "Theme",
+     "Best theme",
+     "unique theme"
+
+
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "green theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/green theme-color-theme.json"
+            }
+        ]
+    }
+}
