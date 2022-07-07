@@ -12,3 +12,8 @@ A visual Studio Code extension made to give vscode a new look with the dark mode
 ![Demo](icons/green_theme3.png)
 ![Demo](icons/green_theme4.png)
 
+
+######Thank You For installing.
+
+**Enjoy**
+
