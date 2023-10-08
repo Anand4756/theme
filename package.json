@@ -37,6 +37,16 @@
                 "label": "green theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/green theme-color-theme.json"
+            },
+            {
+                "label": "pink theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pink theme-color-theme.json"
+            },
+            {
+                "label": "red theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/red theme-color-theme.json"
             }
         ]
     }
